@@ -1,0 +1,27 @@
+button:
+ -
+  name: "美容机构"
+  sub_button:
+   -
+    type: "view"
+    name: "机构认证"
+    url: "http://www.51hbrz.com/BeautyInstitutes.aspx"
+ -
+  name: "消费者"
+  sub_button:
+   -
+    type: "view"
+    name: "查询"
+    url:  "http://baidu.com"
+   -
+    type: "view"
+    name: "专家在线"
+    url:  "http://baidu.com"
+   -
+    type: "view"
+    name: "我的消息"
+    url: "http://baidu.com"
+ -
+  type: "view"
+  name: "活动"
+  url:  "http://baidu.com"
